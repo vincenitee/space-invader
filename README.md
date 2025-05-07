@@ -14,7 +14,9 @@ A classic arcade-style Space Invader-inspired game built with Java. Blast your w
 ## 🎮 Controls
 
 - **Left Arrow / A** – Move Left  
-- **Right Arrow / D** – Move Right  
+- **Right Arrow / D** – Move Right
+- **Up Arrow / W** – Move Up
+- **Down Arrow / S ** - Move Down   
 - **Spacebar** – Shoot
 
 ## 🛠️ Technologies Used
